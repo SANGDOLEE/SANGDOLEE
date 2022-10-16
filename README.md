@@ -2,7 +2,7 @@
 
 - 🏫 Gachon University - Computer engineering 
 - 💻 Android/iOS
-- 🤔 Currently learning Android/iOS
+- 🤔 Currently learning JAVA/Android/iOS
 - 💬 Ask me about ...xkdxh625@naver.com
 
 <h2>📚 STACKS</h2></div>
