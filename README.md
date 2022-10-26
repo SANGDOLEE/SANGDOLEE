@@ -1,7 +1,7 @@
 ### 이상도 Lee sangdo 👋
 
 - 🏫 Gachon University - Computer engineering 
-- 💻 Android/iOS
+- 💻 Mobile
 - 🤔 Currently learning JAVA/Android.....iOS
 - 💬 Ask me about ...
 
