@@ -3,8 +3,8 @@
 - 🏫 Gachon University - Computer engineering 
 - 💻 Mobile
 - 🤔 Currently learning JAVA/Android.....iOS
-- 💬 Ask me about ...
-
+- 💬 Ask me about
+- 
 <h2>📚 STACKS</h2></div>
 
 <div> 
