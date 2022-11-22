@@ -7,9 +7,11 @@
 - 🤔 Currently learning JAVA/Android.....iOS
 - 💬 Ask me about
 
-
+<br>
 ![Lee Sangdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SANGDOLEE&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xkdxh625)](https://solved.ac/xkdxh625/)
+<br>
+
 
 <h2>📚 STACKS</h2></div>
 
