@@ -1,4 +1,4 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xkdxh625)](https://solved.ac/xkdxh625/)
+
 
 ### 이상도 Lee sangdo 👋
 
@@ -6,7 +6,9 @@
 - 💻 Mobile
 - 🤔 Currently learning JAVA/Android.....iOS
 - 💬 Ask me about
-- 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xkdxh625)](https://solved.ac/xkdxh625/)
+
 <h2>📚 STACKS</h2></div>
 
 <div> 
