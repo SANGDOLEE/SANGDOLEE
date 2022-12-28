@@ -4,7 +4,7 @@
 
 - 🏫 Gachon University - Computer engineering 
 - 💻 Mobile
-- 🤔 Currently learning JAVA/Android.....iOS
+- 🤔 Currently learning iOS
 - 💬 Ask me about
 
 
