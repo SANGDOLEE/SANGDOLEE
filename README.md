@@ -3,7 +3,7 @@
 ### 이상도 Lee sangdo 👋
 
 - 🏫 Gachon University - Computer engineering 
-- 💻 Mobile
+- 💻 iOS Developer
 - 🤔 Currently learning iOS
 - 💬 Ask me about
 
