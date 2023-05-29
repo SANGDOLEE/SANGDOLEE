@@ -2,9 +2,11 @@
 
 ## 👋 Welcome to my github ! 
 <br>
+<div>
 - 🏫 Gachon University - Computer engineering 
 - 🍎 learning iOS
-<h6>📚 Skills</h6></div>
+ </div>
+<h5>📚 Skills</h5>
 <div> 
   <br>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
