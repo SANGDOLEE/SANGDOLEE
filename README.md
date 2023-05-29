@@ -4,7 +4,8 @@
 <br>
 <div>
 🏫 Gachon University - Computer engineering 
-💻 learning iOS
+
+🍎 learning iOS
  </div>
 <h5>📚 Skills</h5>
 <div> 
