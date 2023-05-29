@@ -9,8 +9,7 @@
 </div>
 
 <h5>Skills</h5>
-<div> 
-  <br>
+<div>
   <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
   <img src="https://img.shields.io/badge/UIkit-2396F3?style=for-the-badge&logo=Swift&logoColor=white">
   <img src="https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">
