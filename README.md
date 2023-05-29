@@ -1,10 +1,10 @@
 
 
-### 👋 Welcome to my github ! 
-
+## 👋 Welcome to my github ! 
+<br>
 - 🏫 Gachon University - Computer engineering 
 - 🍎 learning iOS
-<h2>📚 Skills</h2></div>
+<h6>📚 Skills</h6></div>
 <div> 
   <br>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
