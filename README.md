@@ -7,7 +7,7 @@
 
 🍎 learning iOS
 </div
-<h5>📚 Skills</h5>
+<h5>Skills</h5>
 <div> 
   <br>
   <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
