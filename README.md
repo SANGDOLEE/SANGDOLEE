@@ -2,11 +2,9 @@
 
 ## 👋 Welcome to my github ! 
 <br>
-<div>
 🏫 Gachon University - Computer engineering 
 
 🍎 learning iOS
- </div>
 <h5>📚 Skills</h5>
 <div> 
   <br>
