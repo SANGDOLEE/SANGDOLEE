@@ -1,7 +1,6 @@
 
 
 ### 👋 Welcome to my github
-<br>
 <div>
 🏫 Gachon University - Computer engineering 
 
