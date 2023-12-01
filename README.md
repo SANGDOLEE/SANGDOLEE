@@ -12,7 +12,7 @@
 <br>
 <p align=center>
 <h2 algin=center>Tech stack</h2>
-<p align=center>
+</p align=center>
 <div>
   <p align=center>
   <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
