@@ -1,7 +1,7 @@
 
 
 ### 👋 Welcome to my github
-<p align=center>
+
 <div>
   <p align=center>
 🖥 Studying computer science and iOS in south korea✏️
