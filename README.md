@@ -11,7 +11,7 @@
 <br>
 <br>
 <p align=center>
-<h2>Tech stack</h2>
+<h2 algin=center>Tech stack</h2>
 <p align=center>
 <div>
   <p align=center>
