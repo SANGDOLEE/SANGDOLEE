@@ -5,13 +5,13 @@
   <p align=center>
     🖥 Studying computer science and iOS in South Korea ✏️
   </p>
+  <br>
+  <br>
   <h2 align="center">  Tech Stack  </h2>
 </div>
 
 <br>
 <br>
-
-<h2 align="center">  Tech Stack  </h2>
 
 <div align=center>
   <p>
