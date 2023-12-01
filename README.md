@@ -1,4 +1,5 @@
-
+<br>
+<br>
 
 <div>
   <p align=center>
@@ -9,9 +10,7 @@
 <br>
 <br>
 
-<p align=center>
-  <h2>Tech stack</h2>
-</p>
+<h2 align="center">  Tech Stack  </h2>
 
 <div align=center>
   <p>
