@@ -1,11 +1,13 @@
 
 
 ### 👋 Welcome to my github
+<p align=center>
 <div>
-🏫 Gachon University - Computer engineering 
-
-🍎 learning iOS
+  <p align=center>
+🖥 Studying computer science and iOS in south korea✏️
+  </p>
 </div>
+
 
 
 <h5>Skills</h5>
