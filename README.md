@@ -9,10 +9,7 @@
   <br>
   <h2 align="center">  Tech Stack  </h2>
 </div>
-
 <br>
-<br>
-
 <div align=center>
   <p>
     <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
