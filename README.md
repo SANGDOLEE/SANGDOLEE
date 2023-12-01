@@ -3,7 +3,7 @@
 
 <div>
   <p align=center>
-    🖥 Studying computer science and iOS in South Korea ✏️
+    🖥 **Studying computer science and iOS in South Korea **✏️
   </p>
   <br>
   <br>
