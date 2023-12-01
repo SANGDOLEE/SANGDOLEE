@@ -11,7 +11,6 @@
 
 
 <h2>Tech stack</h2>
-_______________________________________________________________________________________________________
 <div>
   <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
   <img src="https://img.shields.io/badge/UIkit-2396F3?style=for-the-badge&logo=Swift&logoColor=white">
