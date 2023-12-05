@@ -3,7 +3,7 @@
 
 <div>
   <p align=center>
-    <strong>🖥 Studying computer science and iOS in South Korea ✏️</strong>
+    <strong>🖥 Studying Computer science and iOS in South Korea ✏️</strong>
 </p>
   <h2 align="center">  Tech Stack  </h2>
 </div>
