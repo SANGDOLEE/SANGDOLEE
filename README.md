@@ -1,7 +1,6 @@
 <br>
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,4&height=300&section=header&text=Sangdo%20Lee&fontSize=60&fontAlignY=40&desc=Hi%20there"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,4&height=300&section=header&text=Sangdo%20Lee&fontSize=60&fontAlignY=40&desc=Hi%20there"/>
 <div>
   <p align=center>
     <strong>🖥 Studying Computer science and iOS in South Korea ✏️</strong>
