@@ -14,6 +14,14 @@
     <img src="https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white">
+
+    <img src="https://img.shields.io/badge/swift-239120?style=flat-square&logo=swift&logoColor=white"/>
+    <img src="https://img.shields.io/badge/UIkit-3766AB?style=flat-square&logo=UIkit&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SwiftUi-4479A1?style=flat-square&logo=SwiftUi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/xcode-276DC3?style=flat-square&logo=xcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+    
   </p>
 </div>
 
