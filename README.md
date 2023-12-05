@@ -16,12 +16,12 @@
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white">
     !-->
-    <img src="https://img.shields.io/badge/<strong>Swift</strong>-239120?style=flat-square&logo=swift&logoColor=white">
-    <img src="https://img.shields.io/badge/<strong>UIkit</strong>-3766AB?style=flat-square&logo=UIkit&logoColor=white">
-    <img src="https://img.shields.io/badge/<strong>SwiftUi</strong>-4479A1?style=flat-square&logo=SwiftUi&logoColor=white">
-    <img src="https://img.shields.io/badge/<strong>Xcode</strong>-276DC3?style=flat-square&logo=xcode&logoColor=white">
-    <img src="https://img.shields.io/badge/<strong>Java</strong>-007396?style=flat-square&logo=Java&logoColor=white">
-    <img src="https://img.shields.io/badge/<strong>Android</strong>-3DDC84?style=flat-square&logo=Android&logoColor=white">
+    <img src="https://img.shields.io/badge/Swift-239120?style=flat-square&logo=swift&logoColor=white">
+    <img src="https://img.shields.io/badge/UIkit-3766AB?style=flat-square&logo=UIkit&logoColor=white">
+    <img src="https://img.shields.io/badge/SwiftUi-4479A1?style=flat-square&logo=SwiftUi&logoColor=white">
+    <img src="https://img.shields.io/badge/Xcode-276DC3?style=flat-square&logo=xcode&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
 
     
   </p>
