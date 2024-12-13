@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,4,3,2,1,0&height=300&section=header&text=Sangdo%20Lee&fontSize=60&fontAlignY=40&desc=hi%20there"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,4,3,2,1,0&height=250&section=header&text=Sangdo%20Lee&fontSize=60&fontAlignY=40&desc=iOS%20Developer🧑🏻‍💻"/>
 <div>
   <p align=center>
     <strong>🖥 Studying Computer science and iOS ✏️</strong>
