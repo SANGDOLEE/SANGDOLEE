@@ -1,12 +1,22 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,4,3,2,1,0&height=250&section=header&text=Sangdo%20Lee&fontSize=60&fontAlignY=40&desc=iOS%20Developer🍎"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,4,3,2,1,0&height=250&section=header&text=Sangdo%20Lee&fontSize=60&fontAlignY=40&desc="/>
 <div>
-  <p align=center>
-    <strong>🖥 Studying Computer science and iOS ✏️</strong>
-</p>
-  <h2 align="center">  Tech Stack  </h2>
+  <p align=leading>
+    <strong>Hello! I'm Sangdo👋</strong>
+  </p>
 </div>
+
+<div>
+  <small>Studying Computer science from Korea interested iOS</small>
+</div>
+
 <br>
-<div align=center>
+
+<p align=leading>
+    <strong>Skills & Tools</strong>
+</p>  
+</div>
+
+<div align=leading>
   <p>
     <!--
     <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
@@ -25,6 +35,16 @@
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
   </p>
 </div>
+
+
+<div>
+  <p align=leading>
+    <strong>Education</strong>
+  </p>
+</div>
+
+* Apple Developer Academy @ POSTECH (2024.03-2024.12)
+* Gachon University (2017.03-2023.02)
 
  <!--
  ##### Github
